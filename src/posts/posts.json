@@ -1,0 +1,8 @@
+{
+	"layout": "post.njk",
+	"description": "Somesite",
+	"tags": [
+		"posts"
+	],
+	"date": "Last Modified"
+}
