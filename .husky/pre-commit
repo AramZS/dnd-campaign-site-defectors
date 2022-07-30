@@ -1,9 +1,9 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-cp -R ../DnD/Characters ./src/characters
-cp -R ../DnD/Setting ./src/setting
-cp -R ../DND.SRD.Wiki/Documents ./src/core
+cp -R ../DnD/Characters/ ./src/characters
+cp -R ../DnD/Setting/ ./src/setting
+cp -R ../DND.SRD.Wiki/Documents/ ./src/core
 
 git add src/core/*
 git add src/characters/*
