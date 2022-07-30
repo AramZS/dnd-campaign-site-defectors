@@ -5,6 +5,9 @@ eleventyExcludeFromCollections: true
 internalPageTypes: [ 'home' ]
 ---
 
-# Hello World
+## Hello World
 
-## Coming Soon!
+Welcome to your new site.
+
+### Coming Soon!
+

@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <script data-domain="somesite.com" src="https://plausible.io/js/plausible.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>D&D Core Rules Page</title>
+        {% sassFile false, "?v=" + site.github.build_revision %}
+        {% sassFile 'basic-rules', "?v=" + site.github.build_revision %}
+    </head>
+    <body>
+        <div class="wrapper">
+            <main>
+                <section id="maincontent" class="maincontent two-columns">
+                {{ content | safe }}
+                </section>
+            </main>
+        </div>
+    </body>
+</html>

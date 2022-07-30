@@ -1,75 +1,78 @@
-/* Based on https://github.com/cskau/rpg-template/blob/master/style.css
+// Based on https://github.com/cskau/rpg-template/blob/master/style.css
 
-/* Cardo for headers.
+// Cardo for headers.
 @import url('https://fonts.googleapis.com/css?family=Cardo')
 
-/* Open Sans for tables and box text.
+// Open Sans for tables and box text.
 @import url('https://fonts.googleapis.com/css?family=Open+Sans')
 
-/* Rochester for drop caps.
+// Rochester for drop caps.
 @import url('https://fonts.googleapis.com/css?family=Rochester')
 
-/* Setup for showing something like an A4 size roll when viewed on screen.
+// Setup for showing something like an A4 size roll when viewed on screen.
 @media screen
-html
-    background: var(--main-bg-color)
-    margin: 0
-    padding: 0
+    html
+        background: #f0f0f0
+        margin: 0
+        padding: 0
+        height: 100%
 
-body
-    background: var(--main-bg-color)
-    margin: 0
-    padding: 0
-    width: 170mm
-    padding: 10mm
-    margin: auto
-    margin-top: 2em
-    margin-bottom: 2em
-    background: #fff
-    -moz-box-shadow: 5px 5px 1px #999
-    -webkit-box-shadow: 5px 5px 1px #999
-    box-shadow: 5px 5px 1px #999
-    background: url('bg.png')
+    body
+        background: var(--main-bg-color)
+        margin: 0
+        padding: 0
+        width: 80%
+        min-height: 90%
+        padding: 10mm
+        margin: auto
+        margin-top: 2em
+        margin-bottom: 2em
+        -moz-box-shadow: 5px 5px 1px #999
+        -webkit-box-shadow: 5px 5px 1px #999
+        box-shadow: 5px 5px 1px #999
 
-/* Setup for when we actually print it.
+// Setup for when we actually print it.
 @media print
-.pagebreak
-    display: none
-    page-break-before: always
-    page-break-after: always
+    body
+        width: 170mm
+    .pagebreak
+        display: none
+        page-break-before: always
+        page-break-after: always
 
 body
-    font-size: 12pt
-    line-height: 1.4em
+    font-size: 16pt
+    line-height: 1.6em
 
 h1, h2, h3, h4, h5, h6
     line-height: 1.2em
     color: #58180D
     font-variant-caps: small-caps
     font-family: 'Cardo', serif
-    margin-bottom: 0.1em
+    margin-bottom: 0.3em
     page-break-after: avoid
 
 h1
-    margin-bottom: 0.3em
+    margin-bottom: 0.5em
 
 h3
     border-bottom: 2px solid #C9AD6A
 
-/* Indent any paragraph after first
+// Indent any paragraph after first
 
-p
-+ p
+p + p
     text-indent: 1em
 
+p
     margin-top: 0
     margin-bottom: 0
 
-  /*text-align: justify;
+    //text-align: justify
 
 /*
  *Tables with even-odd alternate coloured rows.
  *First column is centered, rest is left aligned.
+ */
 
 table
     border-collapse: collapse
@@ -77,17 +80,17 @@ table
     width: 100%
     font-family: 'Open Sans', sans-serif
 
-tr, th, td
-    border: 0
-    padding: 0.2ex
-    text-align: left
-    font-size: 11pt
+    tr, th, td
+        border: 0
+        padding: 0.2ex
+        text-align: left
+        font-size: 11pt
 
-th
-    vertical-align: bottom
+    th
+        vertical-align: bottom
 
-td
-    vertical-align: top
+    td
+        vertical-align: top
 
 tr:nth-child(even)
     background: #f0dbb5
@@ -100,31 +103,31 @@ blockquote
     width: 100%
     font-style: italic
 
-&[cite]:after, cite:before
-    content: "— " attr(cite)
+    &[cite]:after, cite:before
+        content: "— " attr(cite)
 
-&[cite]:after, cite
-    display: block
-    text-align: right
-    font-style: normal
+    &[cite]:after, cite
+        display: block
+        text-align: right
+        font-style: normal
 
-/* List with dots aligned to the rest of the text.
+// List with dots aligned to the rest of the text.
 
 ul
     margin: 0.5em 0
     padding-left: 1.2em
 
-/* Drop Caps, ie. that fancy big first letter of chapters.
+// Drop Caps, ie. that fancy big first letter of chapters.
 
 .dropcap:first-letter
-  /*initial-letter: 2;
-   float: left
-   font-size: 4em
-   line-height: 1em
-   padding-right: 0.2em
-   font-family: 'Rochester', cursive
+    // initial-letter: 2
+    float: left
+    font-size: 4em
+    line-height: 1em
+    padding-right: 0.2em
+    font-family: 'Rochester', cursive
 
-/* Alternative manual colour and aligning.
+// Alternative manual colour and aligning.
 
 h3.blue-head
     text-align: right
@@ -161,16 +164,19 @@ label.table-header
     border: solid #000
     border-width: 2px 0
 
-h1, h2, h3, h4, h5, h6
-    margin-top: 0
-    color: #000
-    font-family: 'Open Sans', sans-serif
+    h1, h2, h3, h4, h5, h6
+        margin-top: 0
+        color: #000
+        font-family: 'Open Sans', sans-serif
 
-/*
+//
 
 .two-columns
     column-count: 2
     column-gap: 1cm
+
+strong
+    font-weight: bolder
 
 /*
  *  Some further inspiration can be found here:
@@ -188,3 +194,4 @@ h1, h2, h3, h4, h5, h6
  *  E0E5C1 "commentgreen" e.g. used in table and green commentbox
  *  E9CDC2 "itemtablepink" e.g. used in item tables instead of the green
  *  9C2B1B "rulered" e.g. used for triangular rule in statsblock
+ */
