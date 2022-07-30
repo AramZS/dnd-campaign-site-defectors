@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+cp -R ../DnD/Characters ./characters
+cp -R ../DnD/Setting ./setting
+cp -R ../DND.SRD.Wiki/Documents ./core
