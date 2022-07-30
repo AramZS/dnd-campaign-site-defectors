@@ -4,3 +4,7 @@
 cp -R ../DnD/Characters ./characters
 cp -R ../DnD/Setting ./setting
 cp -R ../DND.SRD.Wiki/Documents ./core
+
+git add core/*
+git add characters/*
+git add setting/*
