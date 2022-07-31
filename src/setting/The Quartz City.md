@@ -3,7 +3,7 @@ title: The Quartz City
 description: The Quartz City, city of changelings, is the city closest to where you begin and the largest in the area of The Verdant known as The Furthest Reach.
 ---
 
-It is the core urban area that sits back from the Borderlands, this is the first place anyone crossing from the extra-planer Riverwalk to the center of The Verdant would encounter that is a true population center. It has built up over the centuries due to its reputation for safety and the fortunes that wash up (sometimes literally) from beyond The Verdant plane. As a border city it is built as a bastion, surrounded by a half sphere of magically-enhanced and almost perfectly transparent Quartz.  
+It is the core urban area of The Furthest Reach that sits back from the Borderlands, this is the first place anyone crossing from the extra-planer Riverwalk to the center of The Verdant would encounter that is a true population center. It has built up over the centuries due to its reputation for safety and the fortunes that wash up (sometimes literally) from beyond The Verdant plane. As a border city it is built as a bastion, surrounded by a half sphere of magically-enhanced and almost perfectly transparent Quartz.  
 
 The border of the sphere and high towers that peak up above the multi level city occasionally flicker with a gleaming light.
 
