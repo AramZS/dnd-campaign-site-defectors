@@ -1,2 +1,2 @@
-Sitemap: https://https://aramzs.github.io/dnd-campaign-site-defectors/sitemap.xml
+Sitemap: https://aramzs.github.io/dnd-campaign-site-defectors/sitemap.xml
 User-agent: *
