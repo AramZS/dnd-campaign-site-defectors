@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"sourceRoot": "https://aramzs.github.io/dnd-campaign-site-defectors",
+	"sources": [
+		"sass/file:///home/runner/work/dnd-campaign-site-defectors/dnd-campaign-site-defectors/src/_sass/template-tag.sass"
+	],
+	"names": [],
+	"mappings": "AAIQ,+KACI,iBACA,yBACJ,0EACI,mBACJ,oDACI,eACA,iBACJ,mCACI",
+	"file": "template-tag.css",
+	"sourcesContent": [
+		"@use 'variables'\n\n#template-tag\n    main .two-columns\n        h2, h3, h4, h5, h6\n            font-size: medium\n            font-variant-caps: normal\n        strong, em\n            font-weight: normal\n        li h3:first-of-type\n            font-size: 25px\n            font-weight: bold\n        li\n            margin-bottom: 20px\n"
+	]
+}

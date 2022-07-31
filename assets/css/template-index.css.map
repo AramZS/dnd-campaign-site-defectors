@@ -5,9 +5,9 @@
 		"sass/file:///home/runner/work/dnd-campaign-site-defectors/dnd-campaign-site-defectors/src/_sass/template-index.sass"
 	],
 	"names": [],
-	"mappings": "AAEA,aACI,eACA,cACA,kBACJ,IACI,eACA,gBACJ,gBACI,aACA",
+	"mappings": "AAEA,aACI,eACA,cACA,kBACJ,IACI,eACA,gBACJ,gBACI,aACA,cACJ,KACI",
 	"file": "template-index.css",
 	"sourcesContent": [
-		"@use 'variables'\n\nbody, wrapper\n    max-width: 100%\n    display: block\n    text-align: center\nimg\n    max-width: 100%\n    max-height: 85vh\np:first-of-type\n    margin-top: 0\n    padding-top: 0\n"
+		"@use 'variables'\n\nbody, wrapper\n    max-width: 100%\n    display: block\n    text-align: center\nimg\n    max-width: 100%\n    max-height: 85vh\np:first-of-type\n    margin-top: 0\n    padding-top: 0\nmain\n    text-align: left\n"
 	]
 }

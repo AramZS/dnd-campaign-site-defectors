@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <!-- internal page type: feed,xml -->
-  <title>Some Site - Atom Feed</title>
-  <subtitle>Some Site Description</subtitle>
+  <title>D&D Defectors Campaign - Atom Feed</title>
+  <subtitle>A custom D&D campaign site</subtitle>
   <link href="https://aramzs.github.io/dnd-campaign-site-defectors/feed.xml" rel="self"/>
   <link href="https://aramzs.github.io/dnd-campaign-site-defectors"/>
   <updated>2021-12-31T02:59:43Z</updated>
