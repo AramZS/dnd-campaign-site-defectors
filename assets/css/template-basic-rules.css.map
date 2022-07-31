@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"sourceRoot": "https://somesite.com",
+	"sourceRoot": "https://https://aramzs.github.io/dnd-campaign-site-defectors",
 	"sources": [
 		"sass/file:///home/runner/work/dnd-campaign-site-defectors/dnd-campaign-site-defectors/src/_sass/template-basic-rules.sass"
 	],

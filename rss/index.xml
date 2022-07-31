@@ -9,24 +9,24 @@
 
 <channel>
 	<title>Some Site - Atom Feed</title>
-	<atom:link href="https://somesite.com/rss/" rel="self" type="application/rss+xml" />
-	<link>https://somesite.com/</link>
+	<atom:link href="https://https://aramzs.github.io/dnd-campaign-site-defectors/rss/" rel="self" type="application/rss+xml" />
+	<link>https://https://aramzs.github.io/dnd-campaign-site-defectors/</link>
 	<description>Some Site Description</description>
-	<lastBuildDate>Sun, 31 Jul 2022 00:09:09 GMT</lastBuildDate>
+	<lastBuildDate>Sun, 31 Jul 2022 00:12:06 GMT</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://11ty.dev/</generator>
 	<managingEditor>
-		webmaster@https://somesite.com (Aram Zucker-Scharff)
+		webmaster@https://https://aramzs.github.io/dnd-campaign-site-defectors (Aram Zucker-Scharff)
 	</managingEditor>
 	
 	<item>
 		<title>Site Coming Soon</title>
-		<link>https://somesite.com/posts/site-coming-soon/?source=rss</link>
+		<link>https://https/posts/site-coming-soon/?source=rss</link>
 		<pubDate>Fri, 31 Dec 2021 02:59:43 GMT</pubDate>
 		<dc:creator>Aram Zucker-Scharff</dc:creator>
-		<guid isPermaLink="true">https://somesite.com/posts/site-coming-soon/</guid>
+		<guid isPermaLink="true">https://https/posts/site-coming-soon/</guid>
 		<description>The site is coming soon</description>
 		<content:encoded><![CDATA[<h2 id="coming-soon!" tabindex="-1">Coming Soon!</h2>
 <p>The Hazard Podcast, coming soon!</p>
