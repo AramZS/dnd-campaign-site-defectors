@@ -31,6 +31,9 @@
         {% block stylehead %}{% endblock %}
         </head>
         <body {% block bodytags %} {% endblock %}>
+            {% block nav %}
+                {% include "partials/nav.njk" %}
+            {% endblock %}
             <div class="wrapper">
                 <header>
                     {% block header %}
@@ -57,12 +60,18 @@
                     {% block prefooter %}{% endblock %}
                     {% block footer %}
                         <p>
-                            <small>Hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>.</small>
+                            <small>Hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>. | Core materials are <a href="https://dnd.wizards.com/resources/systems-reference-document" target="_blank">SRD used under the OGL</a>.</small>
                         </p>
                     {% endblock %}
                     {% block postfooter %}{% endblock %}
                 </footer>
             </div>
+            <svg>
+                <filter id="wavy2">
+                    <feTurbulence x="0" y="0" baseFrequency="0.02" numOctaves="5" seed="1" />
+                    <feDisplacementMap in="SourceGraphic" scale="20" />
+                </filter>
+            </svg>
             <!--[if !IE]><script>fixScale(document);</script><![endif]-->
         </body>
     </html>

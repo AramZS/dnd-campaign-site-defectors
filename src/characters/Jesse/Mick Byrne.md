@@ -1,4 +1,4 @@
-# CharacterNotes
+# Mick Byrne
 
 - Parents were alchemists 
 - Sent to monastery for being troublesome

@@ -29,8 +29,8 @@ if (process.env.IS_LOCAL) {
 
 process.env.DOMAIN = site;
 process.env.DOMAIN_NAME = domain_name;
-process.env.SITE_NAME = "Some Site";
-process.env.DESCRIPTION = "Some Site Description";
+process.env.SITE_NAME = "D&D Defectors Campaign";
+process.env.DESCRIPTION = "A custom D&D campaign site";
 process.env.BASIC_IMAGE = `${domain_name}/img/nyc_noir.jpg`;
 process.env.PRIMARY_AUTHOR = "Aram Zucker-Scharff";
 
@@ -189,6 +189,26 @@ module.exports = function (eleventyConfig) {
 	console.log("other nunjucksFileSystem", nunjucksFileSystem);
 	eleventyConfig.setLibrary("njk", njkEngine); //: autoescape for CSS rules
 
+	eleventyConfig.addFilter("dndSummary", (s) => {
+		let n = 300;
+		postAsString = s.val;
+		if ("string" != typeof postAsString || postAsString.length === 0) {
+			return "";
+		}
+		if (n < 0) {
+			return postAsString;
+		}
+
+		const summary = postAsString.substring(0, n) + "...";
+		let treatedSummary = summary;
+		treatedSummary = summary.replace("h1>", "h3>");
+		treatedSummary = treatedSummary.replace("h2>", "h4>");
+		treatedSummary = treatedSummary.replace("h3>", "h5>");
+		treatedSummary = treatedSummary.replace("h4>", "h5>");
+		treatedSummary = treatedSummary.replace("h5>", "h6>");
+		return treatedSummary.trim();
+	});
+
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("slice", (array, n) => {
 		if (!Array.isArray(array) || array.length === 0) {
@@ -303,7 +323,28 @@ module.exports = function (eleventyConfig) {
 			const numberOfPages = Math.ceil(
 				taggedPosts.length / maxPostsPerPage
 			);
-
+			const alphabeticalSorts = [
+				"core",
+				"characters",
+				"setting",
+				"Classes",
+				"Customizations",
+				"Equipment",
+				"Gamemastering",
+				"Gameplay",
+				"Monsters",
+				"Races",
+				"Spells",
+				"Treasure",
+			];
+			if (alphabeticalSorts.includes(tagName)) {
+				taggedPosts.sort((a, b) => {
+					if (a.url > b.url) return -1;
+					else if (a.url < b.url) return 1;
+					else return 0;
+				});
+				taggedPosts.reverse();
+			}
 			for (let pageNum = 1; pageNum <= numberOfPages; pageNum++) {
 				const sliceFrom = (pageNum - 1) * maxPostsPerPage;
 				const sliceTo = sliceFrom + maxPostsPerPage;

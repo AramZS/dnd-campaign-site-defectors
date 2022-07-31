@@ -1,4 +1,4 @@
-# CharacterNotes 
+# Quava Zataran 
 
 - [[Abyssal]] - intends to talk to Outer Regions and [[Eldritch Horrors]] 
 - Half [[Drow]]
