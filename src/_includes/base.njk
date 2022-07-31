@@ -9,6 +9,7 @@
         {% endif %}
         {% block metahead %}
             <title>{{ title }}</title>
+            <script data-domain="aramzs.github.io" src="https://plausible.io/js/plausible.js"></script>
             <!-- <link rel="stylesheet" href="{{site.site_url}}/assets/css/style.css?v={{ site.github.build_revision}}" /> -->
             {% sassFile false, "?v=" + site.github.build_revision %}
             {% if templateName %}
