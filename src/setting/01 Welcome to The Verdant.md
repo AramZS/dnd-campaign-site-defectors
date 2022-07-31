@@ -18,7 +18,7 @@ Day to day magical artifacts exist. It isn't strange to find a farmer with a sel
 
 Conflict within The Verdant is a fact of life. Sometimes a duel is the only way to solve an argument. Monsters roam areas that still are not secured against them, including most towns without the help of adventurers like you. While there are many Kingdoms in The Verdant many are at peace, some are not. Even occasional border skirmishes between otherwise peaceful kingdoms are not unknown.
 
-The Verdant is a vast world, but you don't know it all. Instead you reside on the vast continent known as Akercollis, a still not fully explored region.
+The Verdant is a vast world, but you don't know it all. Instead you reside on the large continent known as Akercollis, a still not fully explored region.
 
 The northern border is The Vast Archipelago, a strange sea of planer exploration which many have become lost in. A stretch of ungovernable and strange changing land known as The Borderlands sits between it and The Furthest Reach, a large region of adventure and reward. The Furthest Reach is best known for being the source of The Meanders, a river that flows out of its extra-planer border and branches into the nearby regions, bringing with it a current of magic. It is also the source of a magical vein of quartz that has become the core strength of its government, which resides in the strange capital The Quartz City. 
 
