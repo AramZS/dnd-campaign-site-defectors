@@ -23,7 +23,7 @@ A vast burnt dangerous region between Ainody'c and Sur. Combat units roll back a
 
 ## Sur 
 
-Distant Sur is a region of tradition, and strict rulers. It has both vast uninhabitable regions and wealth green ones over which it rules. Sur is known for its acquisitive martial class and aggressive expansion. It has been over 25 years since anyone has seen the Tsarina who rules Sur but no one doubts her power or the force and effectiveness of the Imperial Guard which administrates the kingdom. 
+Distant Sur is a region of tradition, and strict rulers. It has both vast uninhabitable regions and wealthy green ones over which it rules. Sur is known for its acquisitive martial class and aggressive expansion. It has been over 25 years since anyone has seen the Tsarina who rules Sur but no one doubts her power or the force and effectiveness of the Imperial Guard which administrates the kingdom. 
 
 ### Avon, the Rolling City
 
