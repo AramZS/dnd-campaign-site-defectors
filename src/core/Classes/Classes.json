@@ -1,8 +1,8 @@
 {
 	"layout": "basic-rules.njk",
-	"description": "Reference for Core D&D rules",
+	"description": "Classes Reference for Core D&D rules",
 	"tags": [
-		"core"
+		"Classes"
 	],
 	"date": "Last Modified"
 }

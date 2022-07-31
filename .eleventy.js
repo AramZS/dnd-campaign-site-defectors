@@ -383,6 +383,13 @@ module.exports = function (eleventyConfig) {
 				},
 			],
 		})
+		.use(require("./_custom-plugins/markdown-it-table-in-div"), {
+			divClass: "dnd-table-container",
+			addDivClass: true,
+			customHTMLOpener: false,
+			customHTMLCloser: false,
+			style: false,
+		})
 		// .use(require('@gerhobbelt/markdown-it-footnote'))
 		.use(require("markdown-it-anchor"), {
 			slugify: (s) => slugify(s.toLowerCase().replace(/"/g, "")),

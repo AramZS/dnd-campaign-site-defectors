@@ -1,6 +1,8 @@
 @use 'variables'
 
 body
+    font-size: 16px
+    max-width: 1200px
     line-height: 1.3em
 
 p
@@ -10,13 +12,66 @@ header h1
     font-size: 2.3em
     line-height: 1.2em
 
-table
-    margin-top: 10px
-    margin-bottom: 10px
-
-footer
-    margin-top: 18px
+.two-columns table
+    margin: 12px 0
+    overflow-x: auto
+    thead
+        font-weight: 800
+        th
+            padding: 0 6px 4px
+            border: solid var(--title-red)
+            border-width: 0 thin thick
 
 main
     h1, h2, h3, h4, h5, h6
         font-size: larger
+
+footer
+    margin-top: 18px
+
+@media (max-width: 1400px)
+    .two-columns .dnd-table-container
+        box-sizing: content-box
+        margin: 12px 0
+        width: 95%
+        overflow-x: auto
+        display: block
+        max-width: -moz-fit-content
+        max-width: fit-content
+        white-space: nowrap
+        scrollbar-color: var(--rule-red) var(--item-table-pink)
+        scrollbar-width: auto
+        &::-webkit-scrollbar
+            height: 15px
+        /* Track */
+        &::-webkit-scrollbar-track
+            background: var(--item-table-pink)
+        &::-webkit-scrollbar-thumb
+            background: var(--rule-red)
+            border-radius: 10px
+            height: 15px
+
+@media (max-width: variables.$mobile-width)
+    body
+        width: 75%
+    .two-columns
+        column-count: 1
+        column-gap: 0cm
+        .dnd-table-container
+            display: block
+            margin: 16px auto
+            max-width: -moz-fit-content
+            max-width: fit-content
+            overflow-x: auto
+            white-space: nowrap
+            scrollbar-color: var(--rule-red) var(--item-table-pink)
+            scrollbar-width: auto
+            &::-webkit-scrollbar
+                height: 15px
+            /* Track */
+            &::-webkit-scrollbar-track
+                background: var(--item-table-pink)
+            &::-webkit-scrollbar-thumb
+                background: var(--rule-red)
+                border-radius: 10px
+                height: 15px
