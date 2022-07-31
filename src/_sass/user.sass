@@ -43,6 +43,9 @@ nav
     ul
         background: transparent
         margin-top: 12px
+        @media (max-width: variables.$mobile-width)
+            padding: 0
+            margin: 12px auto 0
     a, a:link, a:visited, h1 a, h1 a:link, h1 a:visited
         font-weight: bolder
         color: var(--rule-red)
@@ -55,6 +58,8 @@ nav
             content: "|"
             padding: 0 9px
             display: inline-block
+            @media (max-width: variables.$mobile-width)
+                padding: 0 2px
 
 p
     margin-bottom: 1em
