@@ -1,4 +1,5 @@
 # CharacterNotes 
+
 - [[Abyssal]] - intends to talk to Outer Regions and [[Eldritch Horrors]] 
 - Half [[Drow]]
 - Whip 

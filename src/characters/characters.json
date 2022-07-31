@@ -1,0 +1,8 @@
+{
+	"layout": "basic-rules.njk",
+	"description": "Characters for this game of D&D",
+	"tags": [
+		"characters"
+	],
+	"date": "Last Modified"
+}
