@@ -1,0 +1,8 @@
+{
+	"layout": "basic-rules.njk",
+	"description": "Setting information for this game of D&D",
+	"tags": [
+		"setting"
+	],
+	"date": "Last Modified"
+}

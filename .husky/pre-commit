@@ -3,9 +3,9 @@
 
 echo "Running Husky"
 
-cp -R ../DnD/Characters/ ./src/characters
-cp -R ../DnD/Setting/ ./src/setting
-cp -R ../DND.SRD.Wiki/Documents/ ./src/core
+cp -Rf ../DnD/Characters/ ./src/characters
+cp -Rf ../DnD/Setting/ ./src/setting
+cp -Rf ../DND.SRD.Wiki/Documents/ ./src/core
 
 git add src/core/*
 git add src/characters/*
