@@ -329,7 +329,7 @@ module.exports = function (eleventyConfig) {
 			const alphabeticalSorts = [
 				"core",
 				"characters",
-				"setting",
+				"Setting",
 				"Classes",
 				"Customizations",
 				"Equipment",

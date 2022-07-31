@@ -1,6 +1,6 @@
 ---
 title: The Western Tier
-description: The Western Tier is the most developed region of the west of Akercollis, far enough from THe Cynosure to avoid even the smallest measure of control by its tyrants.
+description: The Western Tier is the most developed region of the west of Akercollis, far enough from The Cynosure to avoid even the smallest measure of control by its tyrants.
 ---
 
 The Western Tier is the most developed region in western Akercollis. It has been developed over the centuries into two main kingdoms, Ainody'c and Sur. 
