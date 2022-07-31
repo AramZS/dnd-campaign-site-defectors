@@ -6,7 +6,7 @@ tags:
   - Hello World
 featuredImage: "nyc_noir.jpg"
 featuredImageCredit: "Aram Zucker-Scharff"
-featuredImageLink: "https://https://aramzs.github.io/dnd-campaign-site-defectors"
+featuredImageLink: "https://aramzs.github.io/dnd-campaign-site-defectors"
 featuredImageAlt: "Photo by Aram Zucker-Scharff"
 ---
 

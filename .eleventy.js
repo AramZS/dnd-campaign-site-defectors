@@ -16,7 +16,7 @@ var slugify = require("slugify");
 
 require("dotenv").config();
 
-let domain_name = "https://aramzs.github.io/dnd-campaign-site-defectors";
+let domain_name = "aramzs.github.io/dnd-campaign-site-defectors";
 let throwOnUndefinedSetting = false;
 
 let site = "https://" + domain_name;
