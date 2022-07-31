@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <!-- internal page type: feed,xml -->
+  <title>Some Site - Atom Feed</title>
+  <subtitle>Some Site Description</subtitle>
+  <link href="https://somesite.com/feed.xml" rel="self"/>
+  <link href="https://somesite.com"/>
+  <updated>2021-12-31T02:59:43Z</updated>
+  <id>https://somesite.com</id>
+  <author>
+    <name>Aram Zucker-Scharff</name>
+    <email>webmaster@https://somesite.com</email>
+  </author>
+  
+  <entry>
+    <title>Site Coming Soon</title>
+    <link href="https://somesite.com/posts/site-coming-soon/"/>
+    <updated>2021-12-31T02:59:43Z</updated>
+    <id>https://somesite.com/posts/site-coming-soon/</id>
+    <content type="html"><h2 id="coming-soon!" tabindex="-1">Coming Soon!</h2>
+<p>The Hazard Podcast, coming soon!</p>
+</content>
+  </entry>
+</feed>
