@@ -1,6 +1,8 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+echo "Running Husky"
+
 cp -R ../DnD/Characters/ ./src/characters
 cp -R ../DnD/Setting/ ./src/setting
 cp -R ../DND.SRD.Wiki/Documents/ ./src/core
