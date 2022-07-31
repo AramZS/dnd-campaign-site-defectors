@@ -5,9 +5,9 @@
 		"sass/file:///home/runner/work/dnd-campaign-site-defectors/dnd-campaign-site-defectors/src/_sass/template-basic-rules.sass"
 	],
 	"names": [],
-	"mappings": "AAAA,GACI,gBACA",
+	"mappings": "AAAA,QACI,gBACA",
 	"file": "template-basic-rules.css",
 	"sourcesContent": [
-		"h1\n    font-size: 2.3em\n    line-height: 1.2em"
+		"main h1\n    font-size: 2.3em\n    line-height: 1.2em\n"
 	]
 }
