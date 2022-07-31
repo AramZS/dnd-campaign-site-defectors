@@ -3,7 +3,7 @@ title: The Furthest Reach
 description: The Furthest Reach is the ultimate border town, a strange and dangerous area patrolled by The Quartz Men, where anything can happen, but opportunity abounds. 
 ---
 
-The Furthest Reach is the area of The Verdant that sits on its north western border and abuts The Riverwalk, an area where anyone can traverse The Riverwalk across the Borderlands and out of this plane into The Vast Archipelago of nearby dimensions.  
+The Furthest Reach is the area of The Verdant that sits on its north western border and abuts Borderlands, an area where anyone can traverse and enter The Riverwalk across which they can pass out of this plane into The Vast Archipelago of nearby dimensions.  
 
 The Furthest Reach includes many areas. Here are just a few:
 
