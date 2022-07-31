@@ -7,7 +7,7 @@ internalPageTypes: [ 'home' ]
 
 ## Welcome players!
 
-![Fankit image of a group hunted by a Beholder]({{site.site_url}}/img/illo1.jpg)
+![Fankit image of a group hunted by a Beholder]({{site.site_url}}/img/Illo1.jpg)
 
 ### How to use this site
 

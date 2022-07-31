@@ -7,7 +7,7 @@ internalPageTypes: [ 'home' ]
 
 ## Welcome to the world of Dungeons and Dragons.
 
-![Fankit image of a dragon]({{site.site_url}}/img/illo2.jpg)
+![Fankit image of a dragon]({{site.site_url}}/img/Illo2.jpg)
 
 This page is designed to be a home page for core resources. While the resources here cannot replace the core rulebooks, it's a quick and fast set of references out of the Systems Reference Document (SRD) that can be useful in a pinch.
 
