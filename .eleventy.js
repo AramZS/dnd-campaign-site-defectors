@@ -201,11 +201,14 @@ module.exports = function (eleventyConfig) {
 
 		const summary = postAsString.substring(0, n) + "...";
 		let treatedSummary = summary;
-		treatedSummary = summary.replace("h1>", "h3>");
-		treatedSummary = treatedSummary.replace("h2>", "h4>");
-		treatedSummary = treatedSummary.replace("h3>", "h5>");
-		treatedSummary = treatedSummary.replace("h4>", "h5>");
-		treatedSummary = treatedSummary.replace("h5>", "h6>");
+
+		treatedSummary = treatedSummary.replace("h5", "h6");
+		treatedSummary = treatedSummary.replace("h4", "h5");
+		treatedSummary = treatedSummary.replace("h3", "h5");
+		treatedSummary = treatedSummary.replace("h2", "h4");
+		treatedSummary = treatedSummary.replace("h1", "h3");
+		treatedSummary = treatedSummary.replace("[[", "");
+		treatedSummary = treatedSummary.replace("]]", "");
 		return treatedSummary.trim();
 	});
 

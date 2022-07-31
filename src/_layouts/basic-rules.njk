@@ -9,11 +9,29 @@
     </head>
     <body>
         <div class="wrapper">
+            {% block nav %}
+                {% include "partials/nav.njk" %}
+            {% endblock %}
             <main>
                 <section id="maincontent" class="maincontent two-columns">
                 {{ content | safe }}
                 </section>
             </main>
+            <footer>
+                {% block prefooter %}{% endblock %}
+                {% block footer %}
+                    <p>
+                        <small>Hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a> and <a href="https://github.com/AramZS/dnd-campaign-site-defectors" target="_blank">Open Source</a>. | Core materials are <a href="https://dnd.wizards.com/resources/systems-reference-document" target="_blank">SRD used under the OGL</a>. Images are from the <a href="https://dnd.wizards.com/resources/fan-site-kit" target="_blank">Fan Site Kit</a>.</small>
+                    </p>
+                {% endblock %}
+                {% block postfooter %}{% endblock %}
+            </footer>
         </div>
+        <svg class="a-svg-filter">
+            <filter id="wavy2">
+                <feTurbulence x="0" y="0" baseFrequency="0.02" numOctaves="5" seed="1" />
+                <feDisplacementMap in="SourceGraphic" scale="20" />
+            </filter>
+        </svg>
     </body>
 </html>

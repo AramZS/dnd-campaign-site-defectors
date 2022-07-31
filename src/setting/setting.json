@@ -1,8 +1,8 @@
 {
-	"layout": "basic-rules.njk",
+	"layout": "post.njk",
 	"description": "Setting information for this game of D&D",
 	"tags": [
-		"setting"
+		"Setting"
 	],
 	"date": "Last Modified"
 }

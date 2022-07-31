@@ -1,15 +1,5 @@
 {% extends "base.njk" %}
 
-{% block precontent %}
-    <h2>
-        {% if paged.tagName == "Posts" %}
-        Posts
-        {% else %}
-        Posts tagged: {{paged.tagName}}
-        {% endif %}
-    </h2>
-{% endblock %}
-
 {% block maincontent %}
     <div id="post-summary-list">
         <ul>

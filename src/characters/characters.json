@@ -2,7 +2,7 @@
 	"layout": "basic-rules.njk",
 	"description": "Characters for this game of D&D",
 	"tags": [
-		"characters"
+		"Characters"
 	],
 	"date": "Last Modified"
 }

@@ -1,3 +1,7 @@
+---
+title: Quava Zataran 
+description: Haunted Bard
+---
 # Quava Zataran 
 
 - [[Abyssal]] - intends to talk to Outer Regions and [[Eldritch Horrors]] 
