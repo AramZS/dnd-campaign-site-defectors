@@ -15,11 +15,11 @@ After decades of on again and off again attacks by Sur, the capital city of Caer
 
 ### The Ranks
 
-The suburban area that sits between the furthest edge of Caeritis and the farms that provide food to the great city. 
+The suburban area that sits between the furthest edge of Caeritis and the farms that provide food to the capital city. 
 
 ## No Man's Land
 
-A vast burnt dangerous region between Ainody'c and Sur. Combat units roll back and forth across this front which has remained unmoved through the efforts of both sides for the last 80 years. Few people unaffiliated with a military remain. A large dry and mostly depleted branch of The Meanders river flows through this area. It once delineated the border between Ainody'c and Sur. 
+A wide-spanning burnt dangerous region between Ainody'c and Sur. Combat units roll back and forth across this front which has remained unmoved through the efforts of both sides for the last 80 years. Few people unaffiliated with a military remain. A large dry and mostly depleted branch of The Meanders river flows through this area. It once delineated the border between Ainody'c and Sur. 
 
 ## Sur 
 
