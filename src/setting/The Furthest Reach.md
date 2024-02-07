@@ -7,7 +7,8 @@ The Furthest Reach is the area of The Verdant that sits on its north western bor
 
 The Furthest Reach includes many areas. Here are just a few:
 
-## Caradtas
+## Caradtas 
+
 The Elvish border town sits just outside the Riverwalk and is a small town that welcomes all. Some believe that the elfish folk are not actually native to The Verdant and that this was their first colony.  If that is true or not has long since stopped mattering, the elves are all about The Verdant now and have been for as long as anyone can remember. Caradtas is, however, quite old, at least the parts of it that have survived aggressive travelers, dangerous incursions, and the occasional overflowing tavern brawl. 
 
 ## Draysward 
@@ -20,5 +21,5 @@ The Quartz City administrates a quarry of magical quartz with strange and abnorm
 
 ## The Torn Towns 
 
-For every village that has thrived in The Furthest Reach another has found itself torn apart, burnt to the ground, or otherwise destroyed. There is much of value for those who succeed, many will become rich, but the broken remains of those who fail still litter the Reach. 
+For every village that has thrived in The Furthest Reach another has found itself torn apart, burnt to the ground, or otherwise destroyed. Some are long abandoned, others' shade is claimed by dark creatures from the sun. There is much of value for those who succeed at building safe and stable towns in the Reach, many will become rich through trade or by providing a rich loam for adventures to cleanse, but the broken remains of those who fail still litter the Reach. 
 

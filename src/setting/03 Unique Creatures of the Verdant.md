@@ -40,7 +40,7 @@ description: A small sampling of creatures that exist in the Verdant, but not st
 
 ### Reactions
 
-***Magic Eater.***If a creature within 60 feet of the blinkie casts a spell using a spell slot or spends one or more charges from a magic item, the blinkie may teleport up to 30 feet closer to the creature.
+***Magic Eater.*** If a creature within 60 feet of the blinkie casts a spell using a spell slot or spends one or more charges from a magic item, the blinkie may teleport up to 30 feet closer to the creature.
 
 ## Blinkies, Swarm of
 
@@ -140,7 +140,7 @@ These creatures are an ice blue and usually coated with ice. They are created wh
 
 ***Loveless (1/day).*** The frost light targets one humanoid it can see within 60 feet, reading their passions and choosing which one to consume. The target must succeed on a DC 16 Charisma saving throw or its love of a thing (be it a person, place, activity, or subject) begins to wane. Once the creature has failed 3 times, they lose all interest in the subject, and the frost light adds a spear to its collection.
 
-Once a target has lost three hearts to the frost light, they begin to transform into a frost light themself; if they don't have one of their hearts returned within one moon cycle, the transformation becomes permanent and can only be undone with the *wish* spell
+Once a target has lost three spears to the frost light, they begin to transform into a frost light themself; if they don't have one of their spears returned within one moon cycle, the transformation becomes permanent and can only be undone with the *wish* spell
 
 *(Adapted from the Bitterbite in [Faerie Fire](https://www.kickstarter.com/projects/astrolago/faerie-fire-a-5e-supplemental/), a 5e supplement by Astrolago Press)*
 
