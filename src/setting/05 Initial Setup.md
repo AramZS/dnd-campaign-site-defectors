@@ -11,3 +11,11 @@ As the story begins you find yourself in the Draysward, a large agricultural reg
 You've escaped from The Western Tier, likely as a soldier or intended recruit of one of the two major powers. Few civilians have made the trek through the warzone, but if you have you've had to do some fighting of your own. 
 
 After wondering through the Reach and perhaps encountering an inhuman being, monster or strange mist, you all separately eventually found your way to a town somewhere in the northwestern corner of Draysward, far enough away to avoid the standard roaming scouts sent to bring back deserters from the Tier, but not far enough for your liking. You've stopped in at a tiny crossroads town of Zernstav, a place exactly large enough to hold two wagon trains and a tavern in the midst of a smattering of houses. You headed to the tavern, a place more inviting then the rest of the town, if unfortunately named, The Gnome Hole. 
+
+## Meeting
+
+Nick and Jesse meet up, Jesse trading addictive potions in exchange for protection. Nick thinks he's getting a potion that will help him take vengeance. Josh is advertising and making a scene in the bar and is known to produce good fraudulent passports. Pacifístov Movement in Sur is part of the reason Serge left, and also to get treatment for his health problems. Wants to get insulin from Jesse. Meet up with them in the bar. 
+
+## Potions and Health 
+
+Health in the world of The Verdant is managed between magic and mechanical potion work. Standard health and diseases exist, along with magical [[Diseases]]. 

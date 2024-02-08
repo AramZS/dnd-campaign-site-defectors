@@ -173,3 +173,79 @@ used this feature you must complete a long rest before
 you can use it again.
 
 *(Used from [Faerie Fire](https://www.kickstarter.com/projects/astrolago/faerie-fire-a-5e-supplemental/), a 5e supplement by Astrolago Press)*
+
+## Monk: Way of Pandemonium 
+  
+Monks of the Way of the Pandemonium use the kinetic energy gathered from the effects of force exuded upon them – i.e., impact, friction, pressure – and convert it into their ki to create booming explosions, rippling waves of sound, and painful effects on their enemies. They are a noisy and disorienting warrior on the battlefield, prone to great feats of athleticism and awe-inspiring efficiency. 
+
+Those who follow the Way of the Pandemonium come from all backgrounds across all lands. They aren’t typically religious and their boisterous fighting style is, by no means, an indicator of an individual’s personality. Monks who follow this path usually don simple-cut robes with their limbs often bare; exposed to the forces naturally encountered on their travels. They do, however, appear to share a style of wearing intricate chains, bangles, cuffs, and earrings. Items, they say, that help them generate and draw upon the energy they imbue into their ki. For example, the twist of a ring causes friction, and the bounce of a pendant causes impact. 
+
+When you adorn yourself (or your Combat Wheelchair) with these decorations, you can choose their appearance yourself or roll for it randomly on the Energy Trinkets table.
+
+### Way of the Pandemonium Features
+| Monk Level | Features |
+| ---- | ---- |
+| 3rd   | _Energy Centre, Off-Kilter, Frictional Ferocity_ |
+| 6th | _Sonic Barrage_ |
+| 11th | _Playback_ |
+| 17th | _Cacophonous Din_ |
+#### Energy Trinkets
+
+Consider your monk’s way of dress, what tastes they may have in fashion. Perhaps their heritage may also influence the style of jewelry or trinkets they prefer to wear about their person. You can also pick or roll randomly on the following table if you’d prefer.
+
+| d8 | Trinkets |
+| ---- | ---- |
+| 1 | _Fine chains with charms of crystal that jingle._ |
+| 2 | _Rings with mechanical moving parts._ |
+| 3 |   _Leather bracelets and clattering wooden beads._ |
+| 4 |   _Earrings with hooped, loose pendants._ |
+| 5 |  _Necklaces with beads and small tinkling bells._ |
+| 6 |  _Loose-ftting anklets with clicking glass pendants._ |
+| 7 | _Copper and brass bangles that jangle loudly._ |
+| 8 |   _Bronze chain-link belts that rattle._ |
+####   Energy Centre
+  
+At 3rd level, you can spend 15 minutes once per day to draw on the energy trinkets you wear about your person to regain 1 ki point. You can only use this feature is you have already used 1 or more of your ki points and can’t stack them in order to exceed the amount of ki you have that is determined by your monk level. 
+
+When you reach 17th level, you can use this feature twice per day. You still can’t exceed your ki level in this manner.  
+#### **Off-Kilter**
+
+At 3rd level, you can spend 1 additional ki point when using your _Flurry of Blows_ to transfer the flow of energy gathered by the impact absorbed by your feet or your chair’s wheels on the ground into a ripple of force that imbues your attack. The target creature must make a Dexterity save – the DC equal to your ki save DC – as their very bones are rattled. On a failure, the creature crumples to the ground, falling prone. 
+
+The sound produced by this wave is a distorted bend of noise, like a drumbeat played in reverse.
+####  **Frictional Ferocity**
+
+Starting at 3rd level, you can manipulate the energy gathered from friction – from pushing your wheelchair, handling your weapons, even saddle sores from a long period of riding a mount. When you hit a creature with an _Unarmed Strike_, you can spend 1 ki point to deal additional fire damage equal to one roll of your martial arts die. If the creature is incapacitated, vulnerable, or made from plant matter, the creature takes fire damage equal to three rolls of your martial arts die instead. 
+
+So long as you have enough ki points to spend, you can use this feature once on each of your turns.
+
+#### **Sonic Barrage**
+
+At 6th level, you harness the energy gathered from knocks and blows made against you. As a bonus action, you can spend 1 ki point to blast this energy out of you in a cracking sonic boom that snaps through the air. 
+
+This blast extends out from you in a 10ft radius and can’t penetrate total cover. Each creature in this area must make a Dexterity saving throw – the DC equal to your ki save DC – or take 2d8 thunder damage, half as much on a success. If the creature fails, they have disadvantage on their next attack made against you.
+
+#### **Playback**
+
+Beginning at 11th level, you have mastered absorbing energy from forces thrust upon you by outside sources when in battle – for example, attacks from your enemies. When a melee weapon or spell attack next successfully hits you, you can spend 1 ki point to use your reaction to only take half of the resulting damage and fling the remaining half back at a target you can see within 30ft of you. 
+
+If the initial attack requires you to make a saving throw against a condition, the target creature you throw the remaining damage onto must also make the saving throw 
+
+– DC being equal to your ki save DC – or be subjected to the condition too. 
+
+You can choose how this volley of energy is returned back to your target – perhaps you channel it into one arm before throwing a mean pitch, or perhaps you feed it into one of your chair’s rear wheels before pivoting to throw it with momentum. 
+
+The sound this energy makes as you volley it is akin to the crack of a whip but amplified tenfold.
+#### **Cacophonous Din**
+
+At 17th level, your control over energy conversion allows you to create an overwhelmingly loud and jarring explosion of discordant sounds. When you next make a successful attack against a creature, you can expend 4 ki points to unleash a devastating blast of sound and energy. 
+
+The target creature must make a Constitution saving throw – DC equal to your ki save DC – with disadvantage. On a failure, it takes six of your martial arts die’s worth of force damage and is Stunned until it can succeed the saving throw. Whilst stunned, all attacks made against the creature have advantage. If the creature succeeds the save, they take half damage and aren’t stunned. 
+
+Additionally, after passing through the initial target, this exploding wave of sound continues rippling out in a 30ft radius. Each creature within this range – including allies but not yourself – must make a Dexterity saving throw or be thrown 5ft away and fall prone, the DC equal to your ki save DC. On a success, a creature is only pushed 5ft away from you.
+
+##### Deaf or Hard of Hearing
+
+Though your attacks in this subclass often use sound, they can and will still affect creatures that are deaf or hard of hearing (HoH). Instead of hearing the resulting sound, they will experience the physicality of the soundwaves produced by your releasing of harsh and powerful energy. Many deaf and HoH people in real life express discomfort at the _feeling_ of a very loud noise.
+
+*(Used from [The Combat Wheelchair](https://drive.google.com/drive/folders/1KVW9Hv0QDPB6IiWbVY6RVi13S3W3bGuy), a 5e supplement by [Sara Thompson](https://www.patreon.com/mustangsart))*

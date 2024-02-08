@@ -28,3 +28,7 @@ Distant Sur is a region of tradition, and strict rulers. It has both vast uninha
 ### Avon, the Rolling City
 
 Ainody'c has become expert in magic-based guerrilla strikes inside the border of Sur. After an attack which decimated the large royal family, the capital city of Tagas (still a thriving and major city) was abandoned by the royals who have taken to the roads of Sur, slowly building a larger and larger retinue of hanger-ons, ever growing wagons, draft creatures, servants and an ever changing and slowly growing set of rolling belfry towers that see endless armor improvements and occasional magical enhancements to protect their residents, the royal family, most of whom are in permanent isolation from the outside world. A border of Imperial Guard ride ahead and behind, helping to keep the exact location of the royal family unknown. Many a trader has seen the oncoming wave of black stallions and turned away, adding many days to their trip rather than chance execution for stumbling upon some state secret. 
+
+### Pacifístov Movement 
+
+The war has been going on now for 80 years and both sides have their own peace movements but the Sur movement has become particularly strong as of late. Because Sur once had the majority of The Western Tier there are real fears that the country will end up smaller than Ainody'c and as a result both hardcore patriots and pacifists have ended up joining the movement giving it a particular new strength. 
